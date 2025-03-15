@@ -9,7 +9,6 @@ const nextConfig = {
   // Оптимизация производительности
   poweredByHeader: false,
   reactStrictMode: true,
-  swcMinify: true,
   // Конфигурация компрессии
   compress: true,
   // Оптимизация для продакшена
